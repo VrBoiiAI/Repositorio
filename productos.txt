@@ -1,0 +1,11 @@
+Sofa 3 Personas,6499.0,SMD3P,2,0
+Sillon Cuero,8999.0,SILCU,2,0
+Mesa Comedor Madera,5000.0,MECOM,9,0
+Silla Comedor,999.0,SICOM,10,0
+Organizador Zapatos,1599.0,ORGZA,3,0
+Cajonera Madera,899.0,CAMAD,3,0
+Colchon Matrimonial,2499.0,COMAT,8,0
+Base Colchon Metal,1299.0,BACOL,8,0
+Silla de Oficina,1199.0,SIOFI,4,0
+Escritorio de Madera,1199.0,ESMAD,2,0
+Closet de Madera,899.0,CLOMA,5,0
