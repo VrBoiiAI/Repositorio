@@ -1,0 +1,3 @@
+I-SOFT-220006,Luis,Alvarez,Leon,N/R,N/R,N/R,N/R,N/R,N/R,N/R
+I-SOFT-220026,Gabriela,Hernandez,Mandujano,10.0,10.0,10.0,10.0,10.0,10.0,10.0
+I-TIID-250000,Judith,Alvarez,Leon,N/R,N/R,N/R,N/R,N/R,N/R,N/R

@@ -10,13 +10,13 @@ def cls():
     os.system("cls")
 
 def leer():
-    with open('text.txt', 'r') as csv_file:
+    with open('alumni.txt', 'r') as csv_file:
         csv_reader = csv.reader(csv_file)
         for line in csv_reader:
             registro.append(line)
 
 def escribir():
-    with open('text.txt', 'w', newline='') as new_file:
+    with open('alumni.txt', 'w', newline='') as new_file:
         csv_writer = csv.writer(new_file)
         csv_writer.writerows(registro)
 
